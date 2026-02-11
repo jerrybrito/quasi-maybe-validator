@@ -1,0 +1,2 @@
+# Requires: quasi-suspension
+# (Not available on PyPI)
